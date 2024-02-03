@@ -47,6 +47,12 @@
       "img": "./images/payments/btc.svg"
     },
     {
+      "id": "usdt_pol",
+      "label": "USDT (POL)",
+      "value": "0x0F9075074A02f5Bc4a984c8e1ac6b28fC44B6848",
+      "img": "./images/payments/usdt.svg"
+    },
+    {
       "id": "matic",
       "label": "Matic",
       "value": "0x0F9075074A02f5Bc4a984c8e1ac6b28fC44B6848",
