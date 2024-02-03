@@ -41,6 +41,12 @@
 
   "Payments": [
     {
+      "id": "btc",
+      "label": "Bitcoin",
+      "value": "bc1qd22ukx40lr5mq9tqhwn07j0jn0kat4s395acns",
+      "img": "./images/payments/btc.svg"
+    },
+    {
       "id": "matic",
       "label": "Matic",
       "value": "0x0F9075074A02f5Bc4a984c8e1ac6b28fC44B6848",
